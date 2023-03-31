@@ -1,4 +1,4 @@
 {
   "mongoURI": "mongodb+srv://vxvxdsk:FrFtfwx4TZn3hOFG@cluster0.2tta6y5.mongodb.net/?retryWrites=true&w=majority",
-  "baseUrl": "http://localhost:5000"
+  "baseUrl": "https://vx-five.vercel.app"
 }
